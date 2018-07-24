@@ -1,0 +1,26 @@
+{
+  "name": "znodeapplication",
+  "version": "1.0.0",
+  "description": "Test Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saratmuddu/znodeapplication.git"
+  },
+  "keywords": [
+    "Test",
+    "Application"
+  ],
+  "author": "Sarat M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saratmuddu/znodeapplication/issues"
+  },
+  "homepage": "https://github.com/Saratmuddu/znodeapplication#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
